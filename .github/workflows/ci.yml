@@ -11,7 +11,7 @@ on:
 env:
   vcpkg_robotology_TAG: v0.0.3
   Catch2_TAG: v2.12.1
-  manif_TAG: 6d07bc65cc5b25c49f1231021be5e61132e5f777
+  manif_TAG: 78cc83d8292736b26a3a4f6d302057a6b80056a4
 
 # Test with different operating systems
 jobs:

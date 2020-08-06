@@ -9,6 +9,11 @@
 
 Header-only C++ libraries containing controllers designed for Lie Groups.
 
+**The developmenet of this library has been moved in https://github.com/dic-iit/lie-group-controllers. This code may be outdated.**
+
+<details><summary>Click me if you are interested in the original project</summary>
+<p>
+
 ## Dependeces
 
 - [manif](https://github.com/artivis/manif);
@@ -41,3 +46,5 @@ target_link_libraries(${PROJECT_NAME} LieGroupsControllers::LieGroupsControllers
 ## Bug reports and support
 
 All types of [issues](https://github.com/GiulioRomualdi/lie-group-controllers/issues/new) are welcome.
+</p>
+</details>

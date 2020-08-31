@@ -9,12 +9,12 @@
 
 Header-only C++ libraries containing controllers designed for Lie Groups.
 
-**The developmenet of this library has been moved in https://github.com/dic-iit/lie-group-controllers. This code may be outdated.**
+**The development of this library was moved to https://github.com/dic-iit/lie-group-controllers. This code may be outdated.**
 
 <details><summary>Click me if you are interested in the original project</summary>
 <p>
 
-## Dependeces
+## Dependencies
 
 - [manif](https://github.com/artivis/manif);
 - [Eigen3](http://eigen.tuxfamily.org/index.php?title=Main_Page);
